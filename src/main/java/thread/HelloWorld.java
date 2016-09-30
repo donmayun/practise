@@ -1,3 +1,5 @@
+package thread;
+
 /**
  * @author don
  * @date 2016/9/30 11:09
